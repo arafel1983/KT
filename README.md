@@ -1,4 +1,3 @@
-![katoolin](https://cloud.githubusercontent.com/assets/8742190/9415562/83397aae-4840-11e5-8f72-28dfffcc70a9.png)
 # katoolin
 Automatically install all Kali linux tools
 
@@ -29,11 +28,4 @@ https://www.youtube.com/watch?v=8VxCWVoZEEE
 
 # Warning
 Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .
-
-# I have some questions!
-
-Please visit https://github.com/LionSec/katoolin/issues
-
-
-
 
