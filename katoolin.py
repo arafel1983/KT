@@ -739,7 +739,6 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
  2) Cymothoa
  3) dbd
  4) dns2tcp
- 5) http-tunnel	
  6) HTTPTunnel
  7) Intersect
  8) Nishang
@@ -767,8 +766,6 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 								cmd = os.system("apt-get install dbd")
 							elif opcion2 == "4":
 								cmd = os.system("apt-get install dns2tcp")
-							elif opcion2 == "5":
-								cmd = os.system("apt-get install http-tunnel")
 							elif opcion2 == "6":
 								cmd = os.system("apt-get install httptunnel")
 							elif opcion2 == "7":
@@ -796,7 +793,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "gohome":
 								inicio1()   
 							elif opcion2 == "0":
-								cmd = os.system("apt-get install -y cryptcat cymothoa dbd dns2tcp http-tunnel httptunnel intersect nishang polenum powersploit pwnat ridenum sbd u3-pwn webshells weevely")
+								cmd = os.system("apt-get install -y cryptcat cymothoa dbd dns2tcp httptunnel intersect nishang polenum powersploit pwnat ridenum sbd u3-pwn webshells weevely")
 							else:
 								print ("\033[1;31mSorry, that was an invalid command!\033[1;m")
 						while opcion1 == "7":
@@ -808,7 +805,6 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 3) dos2unix
 4) Dradis
 5) KeepNote	
-6) MagicTree
 7) Metagoofil
 8) Nipper-ng
 9) pipal
@@ -830,8 +826,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 								cmd = os.system("apt-get install dradis")
 							elif opcion2 == "5":
 								cmd = os.system("apt-get install keepnote")
-							elif opcion2 == "6":
-								cmd = os.system("apt-get install magictree")
+							
 							elif opcion2 == "7":
 								cmd = os.system("apt-get install metagoofil")
 							elif opcion2 == "8":
@@ -843,7 +838,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "gohome":
 								inicio1()   
 							elif opcion2 == "0":
-								cmd = os.system("apt-get install -y casefile cutycapt dos2unix dradis keepnote magictree metagoofil nipper-ng pipal")  
+								cmd = os.system("apt-get install -y casefile cutycapt dos2unix dradis keepnote metagoofil nipper-ng pipal")  
 							else:
 								print ("\033[1;31mSorry, that was an invalid command!\033[1;m")
 
