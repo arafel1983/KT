@@ -522,8 +522,8 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
  9) deblaze				29) sqlsus
 10) DIRB				30) ua-tester
 11) DirBuster				31) Uniscan
-12) fimap				32) Vega
-13) FunkLoad				33) w3af
+12) fimap				
+13) FunkLoad				
 14) Grabber				34) WebScarab
 15) jboss-autopwn			35) Webshag
 16) joomscan				36) WebSlayer
@@ -604,10 +604,6 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 								cmd = os.system("apt-get install ua-tester")
 							elif opcion2 == "31":
 								cmd = os.system("apt-get install uniscan")
-							elif opcion2 == "32":
-								cmd = os.system("apt-get install vega")
-							elif opcion2 == "33":
-								cmd = os.system("apt-get install w3af")
 							elif opcion2 == "34":
 								cmd = os.system("apt-get install webscarab")
 							elif opcion2 == "35":
@@ -931,7 +927,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
  2) bulk-extractor			12) Foremost
  3) Capstone				13) Galleta
  4) chntpw				14) Guymager
- 5) Cuckoo				15) iPhone Backup Analyzer
+ 5) Cuckoo				
  6) dc3dd				16) p0f
  7) ddrescue				17) pdf-parser
  8) DFF					18) pdfid
@@ -976,8 +972,8 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 								cmd = os.system("apt-get install galleta")
 							elif opcion2 == "14":
 								cmd = os.system("apt-get install guymager")
-							elif opcion2 == "15":
-								cmd = os.system("apt-get install iphone-backup-analyzer")
+							
+								
 							elif opcion2 == "16":
 								cmd = os.system("apt-get install p0f")
 							elif opcion2 == "17":
