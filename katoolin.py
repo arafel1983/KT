@@ -157,7 +157,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 16) DNSRecon					45) sslstrip
 17) dnstracer					46) SSLyze
 18) dnswalk					47) THC-IPV6
-19) DotDotPwn					48) theHarvester
+19) DotDotPwn					
 20) enum4linux					49) TLSSLed
 21) enumIAX					50) twofi
 22) exploitdb					51) URLCrazy
@@ -270,8 +270,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 								cmd = os.system("apt-get install sslyze")
 							elif opcion2 == "47":
 								cmd = os.system("apt-get install thc-ipv6")
-							elif opcion2 == "48":
-								cmd = os.system("apt-get install theharvester")
+							
 							elif opcion2 == "49":
 								cmd = os.system("apt-get install tlssled")
 							elif opcion2 == "50":
